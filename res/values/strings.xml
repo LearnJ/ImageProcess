@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImageProcess</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">图片处理</string>
+    <string name="title_activity_matrix">MatrixActivity</string>
+    <string name="title_activity_pixels_effect">PixelsEffectActivity</string>
+    <string name="title_activity_view_flip">ViewFlipActivity</string>
+
+</resources>
